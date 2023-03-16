@@ -1,0 +1,1 @@
+{"mappings":"YAEA,IAAMA,EAAU,IAAIC,KACpBC,QAAQC,IAAI,aAAcH,E","sources":["src/index.js"],"sourcesContent":["// console.log('new date:>>', new\n\nconst dateNiw = new Date();\nconsole.log('dateNiw:>>', dateNiw);\n\n\n"],"names":["$b8f9b7833fa37166$var$dateNiw","Date","console","log"],"version":3,"file":"index.08606b12.js.map"}
