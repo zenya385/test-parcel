@@ -1,0 +1,1 @@
+{"mappings":"AAGAA,QAAQC,IAAI,cAAe,IAAIC","sources":["src/index.js"],"sourcesContent":["\n\n\nconsole.log('new date:>>', new date)"],"names":["console","log","date"],"version":3,"file":"index.1ed2de7e.js.map"}
